@@ -6,7 +6,7 @@ Machine Learning Workflow
 ## Machine Learning Workflow
 
 ### Data Preparation
-- [ ] Tambah Kasus yang bervariasi (Murid dengan nilai yang rendah & tinggi)
+- [x] Tambah Kasus yang bervariasi (Murid dengan nilai yang rendah & tinggi)
 - [ ] Tambah Kolom Absensi (jika tersedia atau buat simulasi)
 - [ ] Hapus kolom yang tidak digunakan pada pelatihan (contoh: nama, id_siswa)
 - [ ] Splitting Data (Train/Test: 80/20)
