@@ -9,15 +9,16 @@ Machine Learning Workflow
 - [x] Tambah Kasus yang bervariasi (Murid dengan nilai yang rendah & tinggi)
 - [x] Tambah Kolom Absensi (jika tersedia atau buat simulasi)
 - [x] Hapus kolom yang tidak digunakan pada pelatihan (contoh: nama, id_siswa)
-- [ ] Splitting Data (Train/Test: 80/20)
+
 
 ### Feature Engineering
 - [x] Hitung nilai rata-rata per siswa
-- [ ] Normalisasi nilai (0–100 → 0–1) jika diperlukan
 - [x] Tambah fitur tren peningkatan/penurunan nilai
 - [ ] Tambah fitur statistik (maksimum, minimum, std)
 
 ### Model Development (Compliance Focus)
+- [ ] Normalisasi nilai (0–100 → 0–1) jika diperlukan
+- [ ] Splitting Data (Train/Test: 80/20)
 - [ ] Gunakan TensorFlow untuk membangun model prediksi (multi-output regression)
 - [ ] Jangan menggunakan model dari TensorFlow Hub / API lain
 - [ ] Aplikasikan PCA untuk ngereduce dimensionality?
